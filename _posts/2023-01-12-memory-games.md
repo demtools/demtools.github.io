@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memory Games"
-author: sal
+author: marie
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---

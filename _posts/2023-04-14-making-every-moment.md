@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Every Moment Count"
-author: Marie
+author: marie
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---

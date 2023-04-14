@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sensory Activities"
-author: john
+author: marie
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---

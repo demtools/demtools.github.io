@@ -1,26 +1,14 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "Sensory Activities"
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Sensory stimulation and touch activities can be helpful for people living with dementia, as they can provide a range of benefits, including promoting relaxation, reducing agitation, and enhancing mood. People living with dementia experience changes in their ability to process and respond to sensory information: sight, hearing, touch, taste, and smell.  Our senses are critical for interacting with our  environment. Research has shown that sensory stimulation and touch activities can help improve mood and reduce behavioural symptoms in people living with dementia.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Haigh J, Mytton C. Sensory interventions to support the wellbeing of people with dementia: A critical review. British Journal of Occupational Therapy. 2016;79(2):120-126. doi:10.1177/0308022615598996
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Sánchez, A., Millán-Calenti, J. C., Lorenzo-López, L., & Maseda, A. (2013). Multisensory stimulation for people with dementia: a review of the literature. American Journal of Alzheimer's Disease & Other Dementias®, 28(1), 7-14.

@@ -5,7 +5,7 @@ permalink: "/about/"
 image: 
 ---
 
-Welcome to Dementia-Tools, a Canadian company dedicated to enhancing the lives of individuals living with dementia and supporting caregivers in engaging and bonding with people  living with dementia through activities. We understand the unique challenges faced by those living with dementia and their families and friends. Dementia can present many challenges, including cognitive decline, social isolation, and a loss of purpose and identity. We offer a range of evidence-based tools and activities designed to address these challenges and promote overall well-being.
+Welcome to Dementia-Tools, a Canadian Company dedicated to enhancing the lives of individuals living with dementia and supporting caregivers in engaging and bonding with people  living with dementia through activities. We understand the unique challenges faced by those living with dementia and their families and friends. Dementia can present many challenges, including cognitive decline, social isolation, and a loss of purpose and identity. We offer a range of evidence-based tools and activities designed to address these challenges and promote overall well-being.
 Cognitive stimulation is crucial for maintaining brain health and promoting memory recall. Our tools and activities challenge the mind, improve cognitive function and encourage social interaction and engagement, which can help combat feelings of loneliness and social isolation.
 Although we are unable to know each living with dementia and their specific needs, we believe that our evidence-based tools and activities can make a real difference in promoting cognitive, social, and emotional well-being, and are proud to offer them to our community.
 

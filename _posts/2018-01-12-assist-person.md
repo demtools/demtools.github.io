@@ -7,7 +7,7 @@ image: assets/images/2.jpg
 ---
 Your role as a family, friend and/or caregiver is essential in helping to promote engagement in the provided activities for the person living with dementia. Your support and approach can make a meaningful difference in the day of your affected friend or family member.
 
-Do:  ✅
+**Do:**  ✅
 
 1.  Provide clear and simple instructions
     
@@ -20,7 +20,7 @@ Do:  ✅
 5.  Encourage and praise 👏👏🏾
     
 
-Do Not: ❌
+**Do Not:** ❌
 
 1.  Criticise, argue or correct: (let them complete the activity as they see it)
     

@@ -1,11 +1,11 @@
 {
-    "name": "gamma_brain_hub",
-    "short_name": "gamma_brain_hub",
+    "name": "spark_mind_play",
+    "short_name": "spark_mind_play",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Dementia-Tools project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

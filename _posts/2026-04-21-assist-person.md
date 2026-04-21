@@ -5,7 +5,7 @@ author: marie
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
-Your role as a family, friend and/or caregiver is essential in helping to promote engagement in the provided activities for the person living with dementia. Your support and approach can make a meaningful difference in the day of your affected friend or family member.
+Your role as a family, friend and/or caregiver is essential in helping to promote engagement in the provided activities for the person living with dementia. Your support and approach can make a meaningful difference in the day of your affected friend or family member(s).
 
 **Do:**  ✅
 

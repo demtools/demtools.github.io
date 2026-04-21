@@ -10,6 +10,9 @@ topmenu:
 - title: Team
   url: "team/"
 
+- title: Spark (mind play)
+  url: "games/web"
+
 - title: Contact
   url: "contact/"
 

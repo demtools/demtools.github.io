@@ -11,7 +11,7 @@ topmenu:
   url: "team/"
 
 - title: Spark (mind play)
-  url: "games/web"
+  url: "games/web/"
 
 - title: Contact
   url: "contact/"

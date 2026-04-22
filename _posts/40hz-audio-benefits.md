@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Resonance of Recovery: Benefits of 40Hz Audio Stimulation"
-date: 2023-10-27
+date: 2026-04-22
 author:	marie
 image: "https://images.unsplash.com/photo-1519834125788-2f9444483584?q=80&w=1000&auto=format&fit=crop"
 categories: research audio

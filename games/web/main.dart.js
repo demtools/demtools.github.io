@@ -68109,7 +68109,7 @@ l.a1C()}}},
 $S:0}
 A.abk.prototype={
 $1(a){var s=null,r=A.iT(30)
-return A.agO(A.c([A.ahj(B.RC,new A.abj(this.a,a),A.ahk(s,s,B.bf,s,s,s,s,s,s,B.i,s,B.M7,s,s,new A.cD(A.iT(15),B.q),s,s,s,s,s))],t.E),B.Rx,new A.cD(r,B.q),B.Rs)},
+return A.agO(A.c([A.ahj(B.RC,new A.abj(this.a,a),A.ahk(s,s,B.bf,s,s,s,s,s,s,B.i,s,B.M7,s,s,new A.cD(A.iT(15),B.q),s,s,s,s,s))],t.E),B.Rw,new A.cD(r,B.q),B.Rs)},
 $S:94}
 A.abj.prototype={
 $0(){A.kR(this.b,!1).vw(null)
@@ -68292,7 +68292,7 @@ s=this.f
 s===$&&A.a()
 r=A.a0(s).h("a7<1,c1>")
 s=A.a3(new A.a7(s,new A.adx(this),r),r.h("aC.E"))
-return A.oO(A.iY(A.c([B.Rw,B.Mf,q,B.Mh,A.l4(s,B.Y,B.bP,B.a6)],t.E),B.Y,B.bP,B.a6),null,null)}}
+return A.oO(A.iY(A.c([B.Rv,B.Mf,q,B.Mh,A.l4(s,B.Y,B.bP,B.a6)],t.E),B.Y,B.bP,B.a6),null,null)}}
 A.adv.prototype={
 $0(){},
 $S:0}
@@ -68425,13 +68425,13 @@ return A.J(A.ajr(q,B.E4),$async$t4)
 case 2:if(!b)A.Rd().$1("Could not launch "+q.j(0))
 return A.F(null,r)}})
 return A.G($async$t4,r)},
-P(a){var s=null,r=A.akq(A.alI(!1,!0,B.Rv,s,!0,s,s,s,s,s,s,this.gZK(),s,s,s)),q=A.c([new A.v4(A.axf(s,s,new A.ti("assets/sparklogo.png",s,s)),new A.a51(),200,B.xO,s),B.Mg],t.E),p=$.ajM()
+P(a){var s=null,r=A.akq(A.alI(!1,!0,B.Rz,s,!0,s,s,s,s,s,s,this.gZK(),s,s,s)),q=A.c([new A.v4(A.axf(s,s,new A.ti("/assets/sparklogo.png",s,s)),new A.a51(),200,B.xO,s),B.Mg],t.E),p=$.ajM()
 B.b.M(q,new A.a7(p,new A.a52(this,a),A.a0(p).h("a7<1,i>")))
 return A.a31(r,s,A.oO(A.iY(q,B.Y,B.bP,B.a6),s,s))},
 ZJ(a,b,c,d){var s=null,r=A.ahk(s,s,d,s,s,s,s,s,s,s,s,B.M2,s,s,new A.cD(A.iT(15),B.q),s,s,s,s,s)
 return A.ahj(A.hB(b,s,B.QN),new A.a50(a,c),r)}}
 A.a51.prototype={
-$3(a,b,c){return B.Ry},
+$3(a,b,c){return B.Rx},
 $S:445}
 A.a52.prototype={
 $1(a){return new A.c1(B.Cu,this.a.ZJ(this.b,a.b,a.a,a.d),null)},
@@ -68486,7 +68486,7 @@ r===$&&A.a()
 return A.a31(A.akq(A.hB(r.b,s,s)),s,A.iY(A.c([A.mg(new A.uV(r.c,this.e,s),1),this.UA()],t.E),B.Y,B.aj,B.a6))},
 UA(){var s,r=this,q=null,p=t.E,o=A.c([A.l4(A.c([A.mg(new A.AS(B.De,"40Hz Visual",r.e,B.qJ,r.ga2b(),new A.aaj(r),q),1),B.Ma,A.mg(new A.AS(B.Df,"Audio",r.f,B.qK,r.ga29(),new A.aak(r),q),1)],p),B.Y,B.aj,B.a6)],p)
 if(r.f){s=r.d
-B.b.M(o,A.c([B.Mi,B.Rz,A.l4(A.c([B.Dn,A.mg(A.anc(new A.aal(r),s.r),1),B.Dl,A.mg(A.anc(new A.aam(r),s.f),1)],p),B.Y,B.aj,B.a6)],p))}return A.p3(q,A.q8(!0,A.iY(o,B.Y,B.aj,B.iq),!0),B.K,q,q,B.xN,q,q,q,B.CE,q,q,q)}}
+B.b.M(o,A.c([B.Mi,B.Ry,A.l4(A.c([B.Dn,A.mg(A.anc(new A.aal(r),s.r),1),B.Dl,A.mg(A.anc(new A.aam(r),s.f),1)],p),B.Y,B.aj,B.a6)],p))}return A.p3(q,A.q8(!0,A.iY(o,B.Y,B.aj,B.iq),!0),B.K,q,q,B.xN,q,q,q,B.CE,q,q,q)}}
 A.aat.prototype={
 $1(a){return a.a===this.a.a.c},
 $S:448}
@@ -74626,6 +74626,13 @@ B.Pj=new A.l(!0,B.bf,null,null,null,null,32,B.ax,null,null,null,null,null,null,n
 B.Rs=new A.d2("\ud83c\udf1f Wonderful!",null,B.Pj,B.cC,null,null)
 B.wK=new A.l(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Rt=new A.d2("Got it!",null,B.wK,null,null,null)
+B.Pm=new A.l(!0,null,null,null,null,null,22,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rv=new A.d2("Match the Shadow",null,B.Pm,null,null,null)
+B.PT=new A.l(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rw=new A.d2("You navigated the path perfectly.",null,B.PT,B.cC,null,null)
+B.Rx=new A.d2("LOGO missing",null,B.wK,null,null,null)
+B.Pl=new A.l(!0,null,null,null,null,null,12,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ry=new A.d2("Audio Mixing",null,B.Pl,null,null,null)
 B.Ar=new A.j(1,0.5098039215686274,0.6941176470588235,1,B.d)
 B.Ah=new A.j(1,0.26666666666666666,0.5411764705882353,1,B.d)
 B.zF=new A.j(1,0.1607843137254902,0.4745098039215686,1,B.d)
@@ -74633,14 +74640,7 @@ B.BA=new A.j(1,0.1607843137254902,0.3843137254901961,1,B.d)
 B.Hv=new A.bD([100,B.Ar,200,B.Ah,400,B.zF,700,B.BA],t.r)
 B.qI=new A.Fq(B.Hv,1,0.26666666666666666,0.5411764705882353,1,B.d)
 B.O5=new A.l(!0,B.qI,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,B.j8,B.qI,null,null,null,null,null,null,null)
-B.Rv=new A.d2("\u2190 Back to www.dementia-tools.com",null,B.O5,null,null,null)
-B.Pm=new A.l(!0,null,null,null,null,null,22,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rw=new A.d2("Match the Shadow",null,B.Pm,null,null,null)
-B.PT=new A.l(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rx=new A.d2("You navigated the path perfectly.",null,B.PT,B.cC,null,null)
-B.Ry=new A.d2("LOGO missing",null,B.wK,null,null,null)
-B.Pl=new A.l(!0,null,null,null,null,null,12,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rz=new A.d2("Audio Mixing",null,B.Pl,null,null,null)
+B.Rz=new A.d2("\u2190 Back to Dementia Tools",null,B.O5,null,null,null)
 B.Ne=new A.l(!0,null,null,null,null,null,16,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RA=new A.d2("Welcome to the Neuro-Stimulation Hub!\n\nPlay the games normally to challenge your brain. At the bottom of the screen, you'll find two stimulation features you can toggle while you play:\n\n\u2022 40Hz Visual: Pulses the screen background.\n\u2022 Audio: Plays a specialized mix of tones and music.\n\nTap the (i) icon next to each feature to learn more about how they work.",null,B.Ne,null,null,null)
 B.OE=new A.l(!0,B.B,null,null,null,null,32,B.ax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)

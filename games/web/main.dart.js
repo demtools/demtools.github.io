@@ -68442,7 +68442,7 @@ return A.J(A.ajy(q,B.E6),$async$t6)
 case 2:if(!b)A.Rh().$1("Could not launch "+q.j(0))
 return A.F(null,r)}})
 return A.G($async$t6,r)},
-P(a){var s=null,r=A.akx(A.alP(!1,!0,B.RE,s,!0,s,s,s,s,s,s,this.gZM(),s,s,s)),q=A.c([new A.v5(A.axq(s,s,new A.tj("assets/images/sparklogo.png",s,s)),new A.a56(),200,B.xP,s),B.Ml],t.E),p=$.ajT()
+P(a){var s=null,r=A.akx(A.alP(!1,!0,B.RE,s,!0,s,s,s,s,s,s,this.gZM(),s,s,s)),q=A.c([new A.v5(A.axq(s,s,new A.tj("images/sparklogo.png",s,s)),new A.a56(),200,B.xP,s),B.Ml],t.E),p=$.ajT()
 B.b.M(q,new A.a7(p,new A.a57(this,a),A.a0(p).h("a7<1,i>")))
 return A.a36(r,s,A.oO(A.iZ(q,B.Y,B.bP,B.a6),s,s))},
 ZL(a,b,c,d){var s=null,r=A.ahq(s,s,d,s,s,s,s,s,s,s,s,B.M7,s,s,new A.cD(A.iU(15),B.q),s,s,s,s,s)

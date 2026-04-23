@@ -68419,7 +68419,7 @@ return A.G($async$l,r)}}
 A.xx.prototype={
 t4(){var s=0,r=A.H(t.H),q
 var $async$t4=A.I(function(a,b){if(a===1)return A.E(b,r)
-for(;;)switch(s){case 0:q=A.hC("https://www.dementia-tools.com",0,null)
+for(;;)switch(s){case 0:q=A.hC("https://dementia-tools.com",0,null)
 s=2
 return A.J(A.ajr(q,B.E4),$async$t4)
 case 2:if(!b)A.Rd().$1("Could not launch "+q.j(0))

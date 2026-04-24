@@ -2,7 +2,7 @@
 layout: post
 title: "The Resonance of Recovery: Benefits of 40Hz Audio Stimulation"
 date: 2026-04-22
-author:	marie
+author:	rod
 image: assets/images/40hz-audio.png
 categories: research audio
 ---

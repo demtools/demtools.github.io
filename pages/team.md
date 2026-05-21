@@ -11,7 +11,7 @@ comments: false
     <img src="/assets/images/marie.png" alt="Marie - Clinical Advisor" style="max-width: 100%; border-radius: 8px;">
     <br/><br/>
     <strong>MARIE - Clinical Advisor</strong>
-    <p>With over 27 years as a Registered Nurse and healthcare leader, Marie understands the challenges of dementia from both professional and personal experience. Recognizing a lack of purposeful stimulation for patients, she joined Dementia-Tools.com. Today, Marie provides engaging activities designed to bring joy, enrich lives, and foster meaningful connections between those living with dementia and their loved ones..</p>
+    <p>With over 27 years as a Registered Nurse and healthcare leader, Marie understands the challenges of dementia from both professional and personal experience. Recognizing a lack of purposeful stimulation for patients, she joined Dementia-Tools.com. Today, Marie advises on the engineering of engaging activities designed to bring joy, enrich lives, and foster meaningful connections between those living with dementia and their loved ones..</p>
   </div>
 
   <div style="flex: 1; min-width: 300px;">

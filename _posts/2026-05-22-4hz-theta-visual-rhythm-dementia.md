@@ -10,7 +10,7 @@ categories: research visual
 # 4Hz Theta Visual Rhythm: How Gentle Light Patterns May Calm the Dementia Brain
 
 
-![Gentle light rhythm visualization](assets/images/articles/sound-waves.jpg)
+![Gentle light rhythm visualization](/assets/images/articles/sound-waves.jpg)
 
 When a person with dementia becomes anxious, agitated, or overwhelmed, their brain is often stuck in a high-frequency stress state. A subtle, slow visual rhythm — pulsing at 4 cycles per second — may help guide the brain back toward calm. Here's what the science says and how it's being applied in dementia care.
 

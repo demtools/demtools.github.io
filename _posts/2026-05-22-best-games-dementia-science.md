@@ -6,10 +6,6 @@ author: rod
 image: assets/images/articles/neuro-science.jpg
 categories: research visual
 ---
-# What Are the Best Games for Someone with Dementia? The Science Behind What Works
-
-
-![Brain neural network illustration](/assets/images/articles//neuro-science.jpg)
 
 Choosing games for a person living with dementia isn't guesswork — there's decades of research showing what engages the brain without causing distress. The best games combine familiar formats with evidence-informed design principles that protect dignity while stimulating neural pathways.
 

@@ -1,7 +1,7 @@
 # Frustration-Free Apps for Dementia Patients: What Actually Works
 
 
-![Peaceful older person with tablet](assets/peaceful-elderly.jpg)
+![Peaceful older person with tablet](/assets/images/articles//peaceful-elderly.jpg)
 
 Most apps weren't designed for people with dementia. They assume the user can read instructions, remember rules between screens, tolerate error messages, and navigate complex menus. For someone with cognitive impairment, these assumptions create a cascade of frustration that ends with the tablet being pushed away.
 
@@ -19,7 +19,7 @@ A truly frustration-free app isn't just "easy." It's designed so that frustratio
 
 ## What "frustration-free" actually means
 
-![Spark hint system guiding to success](assets/hint-game.png)
+![Spark hint system guiding to success](/assets/images/articles//hint-game.png)
 
 
 A genuinely frustration-free app has these properties:
@@ -51,7 +51,7 @@ If the app fails any of these, it will frustrate your person.
 
 ## Apps designed for this population
 
-![Spark celebration screen](assets/well-done-mary.png)
+![Spark celebration screen](/assets/images/articles//well-done-mary.png)
 
 
 The market is small but growing. A few options exist:

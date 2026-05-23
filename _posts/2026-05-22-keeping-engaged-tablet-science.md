@@ -1,8 +1,11 @@
-# How to Keep a Person with Alzheimer's Engaged on a Tablet: What Neuroscience Tells Us
-
-
-![Brain with highlighted regions](/assets/images/articles//brain-game-regions.png)
-
+---
+layout: post
+title: "How to Keep a Person with Alzheimer's Engaged on a Tablet: What Neuroscience Tells Us"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/brain-game-regions.png
+categories: research visual
+---
 Keeping someone with Alzheimer's engaged isn't about finding the right app — it's about understanding how their brain still works and designing the experience around those preserved pathways.
 
 ## The neuroscience of engagement in Alzheimer's

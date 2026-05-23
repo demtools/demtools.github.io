@@ -1,7 +1,7 @@
 # How to Choose the Right Spark Games for Your Loved One
 
 
-![Colourful game selection](assets/game-list-2x2.png)
+![Colourful game selection](/assets/images/articles//game-list-2x2.png)
 
 Not every game works for every person. Someone in early-stage dementia who was a musician might love Name That Tune but find Picture Match boring. Someone in later stages might find Bingo perfect but Finish the Pattern overwhelming.
 
@@ -43,7 +43,7 @@ Engagement itself is the goal:
 
 ## Use the playlist feature
 
-![Spark playlist editor](assets/playlist-editor.png)
+![Spark playlist editor](/assets/images/articles//playlist-editor.png)
 
 
 Once you know which games work, create a custom playlist:
@@ -65,7 +65,7 @@ What works today may not work in 3 months. Check the session history periodicall
 
 ## Games by cognitive domain
 
-![Brain regions and games](assets/brain-game-regions.png)
+![Brain regions and games](/assets/images/articles//brain-game-regions.png)
 
 
 If a healthcare professional has identified specific areas to exercise:

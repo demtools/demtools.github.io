@@ -1,7 +1,7 @@
 # What Are the Best Games for Someone with Dementia?
 
 
-![Older person enjoying a tablet game](assets/hero-elderly-tablet.jpg)
+![Older person enjoying a tablet game](/assets/images/articles//hero-elderly-tablet.jpg)
 
 Finding the right game for a person living with dementia isn't about difficulty — it's about dignity. The best games share a few key traits: they're familiar, they don't punish mistakes, and they adapt to the person's ability without making them feel tested.
 
@@ -19,7 +19,7 @@ Finding the right game for a person living with dementia isn't about difficulty 
 
 ## Games that work well
 
-![Screenshot of Spark Mind Play Bingo game](assets/bingo-win.png)
+![Screenshot of Spark Mind Play Bingo game](/assets/images/articles//bingo-win.png)
 
 
 **Bingo** — The most universally recognized game for older adults. The word "BINGO!" itself can trigger joy from decades of community hall memories. Look for digital versions that call out items visually (not just numbers) and celebrate the win enthusiastically.
@@ -42,7 +42,7 @@ Finding the right game for a person living with dementia isn't about difficulty 
 
 ## Our recommendation
 
-![Spark Mind Play game selection screen](assets/game-list-2x2.png)
+![Spark Mind Play game selection screen](/assets/images/articles//game-list-2x2.png)
 
 
 [Spark Mind Play](https://sparkmindplay.com) was built specifically for this population. It includes 23 games across 5 categories (Classics, Visual, Music & Sound, Thinking, and Relaxation), all powered by the Dignity Engine™ — a proprietary system that ensures the person always succeeds. If they struggle, invisible hints guide them. If they've had enough, the app transitions to a calming experience. No frustration, no failure, no configuration needed.

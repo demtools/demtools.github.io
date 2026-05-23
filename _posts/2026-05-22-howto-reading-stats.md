@@ -1,8 +1,11 @@
-# How to Read Your Loved One's Session Stats in Spark
-
-
-![Spark stats dashboard overview](/assets/images/articles//stats-summary.jpeg)
-
+---
+layout: post
+title: "How to Read Your Loved One's Session Stats in Spark"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/stats-summary.jpeg
+categories: research visual
+---
 Spark tracks how each session goes — not to score your loved one, but to help you understand what's working and when to adjust. Here's how to read the dashboard and what the numbers actually mean.
 
 ## Accessing the stats

@@ -1,7 +1,7 @@
 # How to Set Up Your First Spark Mind Play Session
 
 
-![Tablet on table ready to play](assets/tablet-stand-table.jpg)
+![Tablet on table ready to play](/assets/images/articles//tablet-stand-table.jpg)
 
 This guide walks you through getting your loved one playing in under 2 minutes.
 
@@ -27,7 +27,7 @@ If you're unsure which mode, start with **Support**. You can change it later.
 
 ## Step 3: Pick a game
 
-![Spark game category grid](assets/game-list-2x2.png)
+![Spark game category grid](/assets/images/articles//game-list-2x2.png)
 
 
 You'll see 5 categories in a grid:
@@ -41,7 +41,7 @@ You'll see 5 categories in a grid:
 
 ## Step 4: Hand over the tablet
 
-![Spark Bingo game in play](assets/bingo-win.png)
+![Spark Bingo game in play](/assets/images/articles//bingo-win.png)
 
 
 Prop the tablet on a table (don't ask them to hold it). Say something simple: "Here's a game for you" or "Can you find the matching picture?"

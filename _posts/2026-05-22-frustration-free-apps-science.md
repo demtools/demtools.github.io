@@ -1,8 +1,11 @@
-# Frustration-Free Apps for Dementia: The Neuroscience of Why Failure Hurts and How to Prevent It
-
-
-![Calm nature scene](/assets/images/articles//ripple-fish.png)
-
+---
+layout: post
+title: "What Are the Best Games for Someone with Dementia? The Science Behind What Works"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/ripple-fish.png
+categories: research visual
+---
 When a person with dementia encounters a "Game Over" screen, their brain doesn't process it the way yours does. They don't think "I'll try harder next time." They feel a wave of confusion, shame, and anxiety — and they can't articulate why. Understanding the neuroscience behind this reaction explains why truly frustration-free design isn't a luxury. It's a necessity.
 
 ## Why failure is toxic for the dementia brain

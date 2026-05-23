@@ -1,7 +1,7 @@
 # Frustration-Free Apps for Dementia: The Neuroscience of Why Failure Hurts and How to Prevent It
 
 
-![Calm nature scene](assets/ripple-fish.png)
+![Calm nature scene](/assets/images/articles//ripple-fish.png)
 
 When a person with dementia encounters a "Game Over" screen, their brain doesn't process it the way yours does. They don't think "I'll try harder next time." They feel a wave of confusion, shame, and anxiety — and they can't articulate why. Understanding the neuroscience behind this reaction explains why truly frustration-free design isn't a luxury. It's a necessity.
 
@@ -29,7 +29,7 @@ Errorless learning (Baddeley & Wilson, 1994) breaks this cycle by ensuring succe
 
 ## The science of frustration prevention
 
-![Spark adaptive hint progression](assets/h3.png)
+![Spark adaptive hint progression](/assets/images/articles//h3.png)
 
 
 ### Graduated assistance (the hint ladder)
@@ -81,7 +81,7 @@ Varied sounds (not the same bell every time) prevent habituation and maintain th
 
 ## Spark Mind Play: Built on this research
 
-![Spark relaxation - Ripple Pond](assets/ripple-fish.png)
+![Spark relaxation - Ripple Pond](/assets/images/articles//ripple-fish.png)
 
 
 [Spark Mind Play](https://sparkmindplay.com) implements every principle in the table above:

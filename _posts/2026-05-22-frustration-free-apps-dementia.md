@@ -1,7 +1,11 @@
-# Frustration-Free Apps for Dementia Patients: What Actually Works
-
-
-![Peaceful older person with tablet](/assets/images/articles//peaceful-elderly.jpg)
+---
+layout: post
+title: "Frustration-Free Apps for Dementia Patients: What Actually Works"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/peaceful-elderly.jpg
+categories: research visual
+---
 
 Most apps weren't designed for people with dementia. They assume the user can read instructions, remember rules between screens, tolerate error messages, and navigate complex menus. For someone with cognitive impairment, these assumptions create a cascade of frustration that ends with the tablet being pushed away.
 

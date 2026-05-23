@@ -1,3 +1,12 @@
+---
+layout: post
+title: "4Hz Theta Visual Rhythm: How Gentle Light Patterns May Calm the Dementia Brain"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/40hz-viz.png
+categories: research visual
+---
+
 # 4Hz Theta Visual Rhythm: How Gentle Light Patterns May Calm the Dementia Brain
 
 

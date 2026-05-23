@@ -1,3 +1,11 @@
+---
+layout: post
+title: "What Are the Best Games for Someone with Dementia? The Science Behind What Works"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/neuro-science.jpg
+categories: research visual
+---
 # What Are the Best Games for Someone with Dementia? The Science Behind What Works
 
 

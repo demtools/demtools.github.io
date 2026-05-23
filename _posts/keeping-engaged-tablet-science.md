@@ -1,7 +1,7 @@
 # How to Keep a Person with Alzheimer's Engaged on a Tablet: What Neuroscience Tells Us
 
 
-![Brain with highlighted regions](assets/brain-game-regions.png)
+![Brain with highlighted regions](/assets/images/articles//brain-game-regions.png)
 
 Keeping someone with Alzheimer's engaged isn't about finding the right app — it's about understanding how their brain still works and designing the experience around those preserved pathways.
 
@@ -28,7 +28,7 @@ Engagement happens when you activate preserved pathways while avoiding impaired 
 
 ## How sensory stimulation supports engagement
 
-![40Hz audio visualization](assets/sound-waves.jpg)
+![40Hz audio visualization](/assets/images/articles//sound-waves.jpg)
 
 
 ### 40Hz Auditory Stimulation
@@ -77,7 +77,7 @@ Start with it off. After a few sessions when the person is comfortable with the 
 
 ## Tools that integrate the science
 
-![Spark Mind Play on tablet](assets/caregiver-elderly-tablet.jpg)
+![Spark Mind Play on tablet](/assets/images/articles//caregiver-elderly-tablet.jpg)
 
 
 [Spark Mind Play](https://sparkmindplay.com) was designed around these neuroscience principles:

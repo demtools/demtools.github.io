@@ -1,7 +1,7 @@
 # How to Keep a Person with Alzheimer's Engaged on a Tablet
 
 
-![Caregiver and loved one using tablet together](assets/hero-caregiver-tablet.jpg)
+![Caregiver and loved one using tablet together](/assets/images/articles//hero-caregiver-tablet.jpg)
 
 You bought the tablet hoping it would help. Maybe you imagined them watching videos, playing simple games, or video-calling grandchildren. But the reality is different — they tap the wrong thing, get confused by pop-ups, accidentally close the app, and hand it back to you frustrated.
 
@@ -19,7 +19,7 @@ Here's how to make tablet time actually work.
 
 ## Choose the right content
 
-![Spark Mind Play category selection](assets/game-list-2x2.png)
+![Spark Mind Play category selection](/assets/images/articles//game-list-2x2.png)
 
 
 **Games beat videos.** Passive watching (YouTube, TV) doesn't engage the brain the same way active participation does. A game that requires them to tap, choose, or respond keeps neural pathways active.
@@ -52,7 +52,7 @@ If any of these happened, the session was successful — regardless of whether t
 
 ## Tools that help
 
-![Spark Mind Play in action](assets/hint-game.png)
+![Spark Mind Play in action](/assets/images/articles//hint-game.png)
 
 
 [Spark Mind Play](https://sparkmindplay.com) is designed specifically for this situation. It handles the hard parts automatically:

@@ -1,8 +1,11 @@
-# How to Choose the Right Spark Games for Your Loved One
-
-
-![Colourful game selection](/assets/images/articles//game-list-2x2.png)
-
+---
+layout: post
+title: "What Are the Best Games for Someone with Dementia? The Science Behind What Works"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/game-list-2x2.png
+categories: research visual
+---
 Not every game works for every person. Someone in early-stage dementia who was a musician might love Name That Tune but find Picture Match boring. Someone in later stages might find Bingo perfect but Finish the Pattern overwhelming.
 
 Here's how to find what works.

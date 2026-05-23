@@ -1,7 +1,11 @@
-# How to Keep a Person with Alzheimer's Engaged on a Tablet
-
-
-![Caregiver and loved one using tablet together](/assets/images/articles//hero-caregiver-tablet.jpg)
+---
+layout: post
+title: "How to Keep a Person with Alzheimer's Engaged on a Tablet"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/hero-caregiver-tablet.jpg
+categories: research visual
+---
 
 You bought the tablet hoping it would help. Maybe you imagined them watching videos, playing simple games, or video-calling grandchildren. But the reality is different — they tap the wrong thing, get confused by pop-ups, accidentally close the app, and hand it back to you frustrated.
 

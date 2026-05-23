@@ -1,7 +1,7 @@
 # How to Read Your Loved One's Session Stats in Spark
 
 
-![Spark stats dashboard overview](assets/stats-summary.jpeg)
+![Spark stats dashboard overview](/assets/images/articles//stats-summary.jpeg)
 
 Spark tracks how each session goes — not to score your loved one, but to help you understand what's working and when to adjust. Here's how to read the dashboard and what the numbers actually mean.
 
@@ -24,7 +24,7 @@ At the top you'll see four numbers:
 
 ## The session cards
 
-![Session card expanded](assets/sessions-list.jpeg)
+![Session card expanded](/assets/images/articles//sessions-list.jpeg)
 
 
 Each session shows:
@@ -63,7 +63,7 @@ Tap any session to expand it. You'll see:
 
 ## The trend section (3+ sessions)
 
-![Engagement trend chart](assets/trends.jpeg)
+![Engagement trend chart](/assets/images/articles//trends.jpeg)
 
 
 After 3 sessions, a "Recent Trend" section appears comparing the last two sessions:

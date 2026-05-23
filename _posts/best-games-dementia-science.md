@@ -1,7 +1,7 @@
 # What Are the Best Games for Someone with Dementia? The Science Behind What Works
 
 
-![Brain neural network illustration](assets/neuro-science.jpg)
+![Brain neural network illustration](/assets/images/articles//neuro-science.jpg)
 
 Choosing games for a person living with dementia isn't guesswork — there's decades of research showing what engages the brain without causing distress. The best games combine familiar formats with evidence-informed design principles that protect dignity while stimulating neural pathways.
 
@@ -17,7 +17,7 @@ Errorless learning flips this: show the answer first, guide the person to succes
 
 ### 40Hz Gamma Entrainment (Iaccarino et al., Nature, 2016)
 
-![Sound wave visualization](assets/sound-waves.jpg)
+![Sound wave visualization](/assets/images/articles//sound-waves.jpg)
 
 
 Groundbreaking research from MIT demonstrated that exposing mice with Alzheimer's pathology to 40Hz sensory stimulation (light and sound) reduced amyloid plaques and tau tangles — the hallmarks of Alzheimer's disease. Subsequent human studies (Chan et al., 2022; He et al., Cell, 2023) showed that 40Hz auditory and visual stimulation is safe, well-tolerated, and associated with improved neural oscillatory activity in people with mild cognitive impairment.
@@ -36,7 +36,7 @@ Research on rhythmic sensory stimulation shows that the brain naturally synchron
 
 ### Musical Memory Preservation
 
-![Older person enjoying music](assets/elderly-headphones.jpg)
+![Older person enjoying music](/assets/images/articles//elderly-headphones.jpg)
 
 
 Musical memory is stored in the supplementary motor area and cerebellum — brain regions that are relatively preserved even in advanced Alzheimer's disease (Jacobsen et al., Brain, 2015). This is why a person who can't remember their children's names may still sing along perfectly to a song from 1960.
@@ -67,7 +67,7 @@ Based on the research, the ideal dementia game:
 
 ## Our approach
 
-![Spark Mind Play sensory controls](assets/sensory-controls.png)
+![Spark Mind Play sensory controls](/assets/images/articles//sensory-controls.png)
 
 
 [Spark Mind Play](https://sparkmindplay.com) integrates all of these research findings into a single platform:

@@ -7,9 +7,6 @@ image: assets/images/articles/sound-waves.jpg
 categories: research visual
 ---
 
-
-![Gentle light rhythm visualization](/assets/images/articles/sound-waves.jpg)
-
 When a person with dementia becomes anxious, agitated, or overwhelmed, their brain is often stuck in a high-frequency stress state. A subtle, slow visual rhythm — pulsing at 4 cycles per second — may help guide the brain back toward calm. Here's what the science says and how it's being applied in dementia care.
 
 ## What is theta rhythm?
@@ -38,7 +35,7 @@ All of these involve the brain being "stuck" in higher-frequency states (beta/hi
 
 ## How visual rhythm promotes theta
 
-![Brain entrainment diagram](assets/hipo-amyglia.jpg)
+![Brain entrainment diagram](/assets/images/articles//hipo-amyglia.jpg)
 
 
 The brain has a remarkable property called **entrainment** — it naturally synchronizes its electrical activity with external rhythmic stimuli. If you flash a light at 4Hz, neurons in the visual cortex begin firing at 4Hz. This effect propagates to connected brain regions, gently pulling the whole brain toward that frequency.
@@ -76,7 +73,7 @@ They can be used together — 40Hz audio for cognitive engagement during games, 
 
 ## How Spark Mind Play uses 4Hz visual rhythm
 
-![Spark sensory controls with visual rhythm](assets/sensory-controls.png)
+![Spark sensory controls with visual rhythm](/assets/images/articles/sensory-controls.png)
 
 
 [Spark Mind Play](https://sparkmindplay.com) includes an optional 4Hz visual rhythm feature:

@@ -1,7 +1,11 @@
-# What Are the Best Games for Someone with Dementia?
-
-
-![Older person enjoying a tablet game](/assets/images/articles//hero-elderly-tablet.jpg)
+---
+layout: post
+title: "What Are the Best Games for Someone with Dementia?"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/hero-elderly-tablet.jpg
+categories: research visual
+---
 
 Finding the right game for a person living with dementia isn't about difficulty — it's about dignity. The best games share a few key traits: they're familiar, they don't punish mistakes, and they adapt to the person's ability without making them feel tested.
 

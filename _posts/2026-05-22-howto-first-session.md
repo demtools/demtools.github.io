@@ -1,8 +1,11 @@
-# How to Set Up Your First Spark Mind Play Session
-
-
-![Tablet on table ready to play](/assets/images/articles//tablet-stand-table.jpg)
-
+---
+layout: post
+title: "How to Set Up Your First Spark Mind Play Session"
+date: 2026-05-22
+author: rod
+image: assets/images/articles/tablet-stand-table.jpg
+categories: research visual
+---
 This guide walks you through getting your loved one playing in under 2 minutes.
 
 ## Step 1: Open Spark

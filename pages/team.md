@@ -11,7 +11,7 @@ comments: false
     <img src="/assets/images/rod.png" alt="Rod - Founder" style="max-width: 100%; border-radius: 8px;">
     <br/><br/>
     <strong>ROD - Founder</strong>
-    <p>Rod is a seasoned Business and Technology executive who has learned about dementia on a very personal parental level. Currently, he is the COO for a scaleup in the Mental Health space.</p>
+    <p>Rod is a seasoned Business and Technology executive who has learned about dementia on a very personal parental level. </p>
   </div>
 
 </div>

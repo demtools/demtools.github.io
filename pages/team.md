@@ -22,7 +22,7 @@ Our goal is simple: ensure users experience a sense of accomplishment—never a 
 I am always open to connecting with care givers family or professional, therapists, activity directors, and fellow innovators who believe in empathetic, accessible design..</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/marie-av.png" alt="Marie - Clinical Advisor" style="max-width: 100%; border-radius: 8px;">
+    <img src="/assets/images/marie-av1.png" alt="Marie - Clinical Advisor" style="max-width: 100%; border-radius: 8px;">
     <br/><br/>
     <strong>MARIE - Clinical Advisor</strong>
     <p>Marie brings over 27 years of experience as a Registered Nurse and healthcare leader, deeply understanding dementia from both a clinical and deeply personal perspective. Driven by the critical lack of purposeful stimulation for memory care patients, she joined Dementia-Tools.com. As an advisor, Marie guides the engineering of accessible, engaging activities designed to protect human dignity, bring joy, and foster meaningful connections between users and their loved ones.</p>

@@ -12,6 +12,7 @@ topmenu:
 
 - title: Spark Mind Play
   url: https://sparkmindplay.com/
+  external: true
 
 - title: Contact
   url: "contact/"
